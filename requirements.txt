@@ -1,1 +1,6 @@
 ktrain
+notebook
+matplotlib
+numpy
+pandas
+scikit-learn
